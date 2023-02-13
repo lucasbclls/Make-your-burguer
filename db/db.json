@@ -80,79 +80,13 @@
   "burgers": [
     {
       "nome": null,
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
         "opcional.tipo"
       ],
       "status": "Solicitado",
       "id": 1
-    },
-    {
-      "nome": null,
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": null,
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "",
-      "carne": "",
-      "pao": "",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": null,
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": null,
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": null,
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }

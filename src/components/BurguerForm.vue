@@ -37,7 +37,7 @@
             >Selecione os opcionais
           </label>
           <div
-            class="checcbox-container"
+            class="checkbox-container"
             v-for="opcional in opcionaisdata"
             :key="opcional.id"
           >
